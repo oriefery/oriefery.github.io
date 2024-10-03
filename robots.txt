@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oriefery.github.io/sitemap.html.gz
+Sitemap: https://oriefery.github.io/app/sitemap.html.gz
+Sitemap: https://oriefery.github.io/assets/sitemap.html.gz
+Sitemap: https://oriefery.github.io/css/sitemap.html.gz
+Sitemap: https://oriefery.github.io/data/sitemap.html.gz
+Sitemap: https://oriefery.github.io/includes/sitemap.html.gz
+Sitemap: https://oriefery.github.io/item/sitemap.html.gz
+Sitemap: https://oriefery.github.io/src/sitemap.html.gz
